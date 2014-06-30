@@ -1,0 +1,27 @@
+<group>
+	<JointType_SpineBase>0</JointType_SpineBase>
+	<JointType_SpineMid>0</JointType_SpineMid>
+	<JointType_Neck>0</JointType_Neck>
+	<JointType_Head>0</JointType_Head>
+	<JointType_ShoulderLeft>0</JointType_ShoulderLeft>
+	<JointType_ElbowLeft>0</JointType_ElbowLeft>
+	<JointType_WristLeft>1</JointType_WristLeft>
+	<JointType_HandLeft>0</JointType_HandLeft>
+	<JointType_ShoulderRight>1</JointType_ShoulderRight>
+	<JointType_ElbowRight>0</JointType_ElbowRight>
+	<JointType_WristRight>0</JointType_WristRight>
+	<JointType_HandRight>0</JointType_HandRight>
+	<JointType_HipLeft>1</JointType_HipLeft>
+	<JointType_KneeLeft>0</JointType_KneeLeft>
+	<JointType_AnkleLeft>0</JointType_AnkleLeft>
+	<JointType_FootLeft>0</JointType_FootLeft>
+	<JointType_HipRight>0</JointType_HipRight>
+	<JointType_KneeRight>0</JointType_KneeRight>
+	<JointType_AnkleRight>1</JointType_AnkleRight>
+	<JointType_FootRight>0</JointType_FootRight>
+	<JointType_SpineShoulder>0</JointType_SpineShoulder>
+	<JointType_HandTipLeft>0</JointType_HandTipLeft>
+	<JointType_ThumbLeft>0</JointType_ThumbLeft>
+	<JointType_HandTipRight>0</JointType_HandTipRight>
+	<JointType_ThumbRight>0</JointType_ThumbRight>
+</group>
